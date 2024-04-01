@@ -11,6 +11,12 @@
         "category": "Books",
         "image": "https://images.blinkist.io/images/books/6253fb7b6cee070008dbe6e6/1_1/470.jpg",
         "price": 199
+    },
+    {
+        "category": "Men's Fashion",
+        "price": 5000,
+        "name": "Blue Safari Suit",
+        "image": "https://i.pinimg.com/236x/58/50/26/585026bb655fdacad5a196fe9b84c5ef.jpg"
     }
 ],
   "profile": {
