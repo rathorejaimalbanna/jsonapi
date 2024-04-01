@@ -17,6 +17,18 @@
         "price": 5000,
         "name": "Blue Safari Suit",
         "image": "https://i.pinimg.com/236x/58/50/26/585026bb655fdacad5a196fe9b84c5ef.jpg"
+    },
+    {
+        "category": "Electronics",
+        "image": "https://www.ifbappliances.com/media/opti_image/webp/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/e/x/executive_mxs_id_1014_front300.webp",
+        "price": 10025,
+        "name": "LG wash prefect"
+    },
+    {
+        "image": "https://ikkadukka.com/cdn/shop/products/ikigai-the-japanese-secret-to-a-long-and-happy-life-book-books-house-home-lifestyle-newarrivals-product-type-ikkadukka-store-ikka-dukka-eclectic-online_580_1024x1024.jpg?v=1584737493",
+        "price": 199,
+        "name": "IKIGAI",
+        "category": "Books"
     }
 ],
   "profile": {
