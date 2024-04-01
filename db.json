@@ -23,30 +23,6 @@
         "category": "Books",
         "image": "https://images.blinkist.io/images/books/6253fb7b6cee070008dbe6e6/1_1/470.jpg",
         "price": 199
-    },
-    {
-        "price": 155,
-        "category": "Books",
-        "image": "https://images.blinkist.io/images/books/658496c98081ae000ed130ae/1_1/470.jpg",
-        "name": "The Product Operations"
-    },
-    {
-        "image": "https://sslimages.shoppersstop.com/sys-master/images/h9d/hd3/27614554587166/INFLWD-28_INDIGO_alt1.jpg_2000Wx3000H",
-        "category": "Women's Fashion",
-        "price": 876,
-        "name": "Women's jeans blue"
-    },
-    {
-        "category": "Men's Fashion",
-        "price": 5000,
-        "name": "Blue Safari Suit",
-        "image": "https://i.pinimg.com/236x/58/50/26/585026bb655fdacad5a196fe9b84c5ef.jpg"
-    },
-    {
-        "category": "Electronics",
-        "image": "https://www.ifbappliances.com/media/opti_image/webp/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/e/x/executive_mxs_id_1014_front300.webp",
-        "price": 10025,
-        "name": "LG wash prefect"
     }
 ]
 }
