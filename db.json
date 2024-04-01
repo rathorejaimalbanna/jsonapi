@@ -7,7 +7,5 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "products":[
-    {"name":"lapi","price":"54000"},{"course":"full stack","price":"1L"},{"time":"1Year"}]
+  }
 }
