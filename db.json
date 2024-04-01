@@ -1,5 +1,5 @@
 {
-  "export const data" :[
+  "products" :[
     {
         "name": "Brown Jacket",
         "price": 567,
