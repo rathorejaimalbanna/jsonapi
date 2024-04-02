@@ -1,85 +1,82 @@
 {
   "products" :[
-    {
+    {    "id":1
         "name": "Brown Jacket",
         "price": 567,
         "image": "https://m.media-amazon.com/images/I/41dN55aQfqL._AC_SY580_.jpg",
         "category": "Men's Fashion"
     },
-    {
+    {    "id":2
         "category": "Women's Fashion",
         "name": "Hand bag zara ",
         "image": "https://www.jiomart.com/images/product/original/rvivif690m/faisna-fashion-women-s-hand-held-stylish-shoulder-bag-pista-product-images-rvivif690m-0-202210160127.jpg?im=Resize=(500,630)",
         "price": 2122
     },
-    {
+    {    "id":3
         "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/kurta/i/p/m/m-na-pf1009-pink-prayaari-fashions-original-imagzgcjjgfqdhan.jpeg?q=20&crop=false",
         "price": 455,
         "category": "Women's Fashion",
         "name": "Fashion kurta"
     },
-    {
+    {    "id":4
         "name": "Continuous discovery habits",
         "category": "Books",
         "image": "https://images.blinkist.io/images/books/6253fb7b6cee070008dbe6e6/1_1/470.jpg",
         "price": 199
     },
-    {
+    {  "id":5
         "price": 155,
         "category": "Books",
         "image": "https://images.blinkist.io/images/books/658496c98081ae000ed130ae/1_1/470.jpg",
         "name": "The Product Operations"
     },
-    {
+    {    "id":6
         "image": "https://sslimages.shoppersstop.com/sys-master/images/h9d/hd3/27614554587166/INFLWD-28_INDIGO_alt1.jpg_2000Wx3000H",
         "category": "Women's Fashion",
         "price": 876,
         "name": "Women's jeans blue"
     },
-    {
+    {  "id":7
         "category": "Men's Fashion",
         "price": 5000,
         "name": "Blue Safari Suit",
         "image": "https://i.pinimg.com/236x/58/50/26/585026bb655fdacad5a196fe9b84c5ef.jpg"
     },
-    {
+    {  "id":8
         "category": "Electronics",
         "image": "https://www.ifbappliances.com/media/opti_image/webp/catalog/product/cache/f6d60de4095a6e5204f81c04aa5b766f/e/x/executive_mxs_id_1014_front300.webp",
         "price": 10025,
         "name": "LG wash prefect"
     },
-    {
+    {  "id":9
         "image": "https://ikkadukka.com/cdn/shop/products/ikigai-the-japanese-secret-to-a-long-and-happy-life-book-books-house-home-lifestyle-newarrivals-product-type-ikkadukka-store-ikka-dukka-eclectic-online_580_1024x1024.jpg?v=1584737493",
         "price": 199,
         "name": "IKIGAI",
         "category": "Books"
     },
-    {
+    {  "id":10
         "category": "Electronics",
         "name": "iphone 14 max pro",
         "image": "https://m.media-amazon.com/images/I/610pghkO81L._SX679_.jpg",
         "price": 55476
     },
-    {
+    {  "id":11
         "category": "Electronics",
         "price": 66899,
         "image": "https://m.media-amazon.com/images/I/914hFeTU2-L._SX450_.jpg",
         "name": "Canon 200D"
     },
-    {
+    {  "id":12
         "name": "Macbook Air",
         "category": "Electronics",
         "image": "https://m.media-amazon.com/images/I/71eXNIDUGjL._SX679_.jpg",
         "price": 73999
     },
-    {
+    {  "id":13
         "category": "Electronics",
         "image": "https://m.media-amazon.com/images/I/61RZDb2mQxL._SX679_.jpg",
         "price": 24855,
         "name": "Samsung S23"
     }
-],
-  "profile": {
-    "name": "typicode"
-  }
+]
 }
